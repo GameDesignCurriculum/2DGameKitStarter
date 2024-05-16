@@ -29,16 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/NewScene.unity
     guid: a341347ecfade124f817cac8ea56a209
-  - enabled: 1
+  - enabled: 0
     path: Assets/NewScene.unity
     guid: 9935748290eafd1409f4e4669b7e2482
-  - enabled: 1
+  - enabled: 0
     path: Assets/CheckEllenHealth.unity
     guid: e3d0a8897275db24b8f23ff3b024ad13
-  - enabled: 1
+  - enabled: 0
     path: Assets/CheckEllen.unity
     guid: cd064c156d1ad474dab2b7dbaa655499
   m_configObjects: {}
